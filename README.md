@@ -67,3 +67,6 @@ To run the project
 ```bash
   java -jar target/weather-station-0.0.1-SNAPSHOT.jar
 ```
+
+## Preview UI
+<img width="1509" alt="Screenshot 2024-11-16 at 21 34 20" src="https://github.com/user-attachments/assets/244f4e4b-80dc-422e-b81a-3abd69544afd">
